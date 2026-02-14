@@ -8,5 +8,5 @@ First responder by day, vibe coding with Claude by night. Building open-source t
 ---
 
 <a href="https://buymeacoffee.com/takwerx">
-  <img src="takcoffee_200.png" alt="Buy Me A Coffee" height="150">
+  <img src="https://raw.githubusercontent.com/takwerx/mediamtx-installer/main/takcoffee.png" alt="Buy Me A Coffee" height="150">
 </a>
