@@ -2,6 +2,7 @@
 
 First responder by day, vibe coding with Cursor by night. Building open-source tools for the TAK community. ☕🔥
 
+🧰 **[infra-TAK](https://github.com/takwerx/infra-TAK)** — Tea Awareness Kit Infrastructure Management Platform
 🎥 **[MediaMTX Installer](https://github.com/takwerx/mediamtx-installer)** — Streaming infrastructure for ISR video feeds
 🛡️ **[TAK Server Installer](https://github.com/takwerx/tak-server-installer)** — TAK Server deployment for Rocky Linux 9 & Ubuntu 22.04
 
