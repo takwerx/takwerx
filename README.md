@@ -5,6 +5,7 @@ First responder by day, vibe coding with Cursor by night. Building open-source t
 🧰 **[infra-TAK](https://github.com/takwerx/infra-TAK)** — Team Awareness Kit Infrastructure Management Platform
 🎥 **[MediaMTX Installer](https://github.com/takwerx/mediamtx-installer)** — Streaming infrastructure for ISR video feeds
 🛡️ **[TAK Server Installer](https://github.com/takwerx/tak-server-installer)** — TAK Server deployment for Rocky Linux 9 & Ubuntu 22.04
+🧩 **[ATAK Plugins](https://takwerx.github.io/takwerx-market/)** — every plugin in the TAKwerx Market, with downloads
 
 ---
 
