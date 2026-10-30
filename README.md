@@ -1,6 +1,6 @@
 # takwerx
 
-First responder by day, vibe coding with Cursor by night. Building open-source tools for the TAK community. ☕🔥
+First responder by day, vibecoding by night. Building open-source tools for the TAK community. ☕🔥
 
 🧰 **[infra-TAK](https://github.com/takwerx/infra-TAK)** — Team Awareness Kit Infrastructure Management Platform
 🎥 **[MediaMTX Installer](https://github.com/takwerx/mediamtx-installer)** — Streaming infrastructure for ISR video feeds
